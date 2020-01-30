@@ -1,0 +1,12 @@
+{
+  "name": "muradjs",
+  "version": "1.0.0",
+  "description": "This package converts Bangla text into transliterated English text",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Rabbi Hossain <me@2hr.me>",
+  "license": "MIT"
+}
